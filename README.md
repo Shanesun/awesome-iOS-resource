@@ -463,6 +463,7 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 * [HITB GSEC](http://gsec.hitb.org/) [YouTube](https://www.youtube.com/user/hitbsecconf)
 * [DEF CON](https://www.defcon.org/) [YouTube](https://www.youtube.com/user/DEFCONConference)
 * [DO iOS Conference](http://do-ios.com/) [YouTube](https://www.youtube.com/playlist?list=PLC3RVtNPazW9npPAmF61HyNDCiL3GDmoZ&mc_cid=24fc5b5631)
+* [DevFest Baltics](https:devfest.gdg.lv) [YouTube](https://www.youtube.com/channel/UCNGL7gGX1uIxxdJ3w4CLfaQ)
 
 ## Books
 
