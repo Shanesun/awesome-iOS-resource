@@ -93,7 +93,7 @@ the best ways to use are:
 * [Swift在Airbnb的应⽤实践——陈坤](Conferences/Swift在Airbnb的应⽤实践.pdf)
 * [腾讯移动分析Crash系统实时化演进与实践——李国栋](Conferences/腾讯移动分析Crash系统实时化演进与实践.pdf)
 * [携程无线持续交付平台——赵辛贵](Conferences/携程无线持续交付平台.pdf)
-* [移动项目快速持续交付的工程化实践——林永坚](Conferences/携程无线持续交付平台.pdf)
+* [移动项目快速持续交付的工程化实践——林永坚](Conferences/移动项目快速持续交付的工程化实践.pdf)
 * [手机天猫面向业务的界面解决方案-Tangram——高嘉峻(伯灵)](Conferences/手机天猫面向业务的界面解决方案-Tangram.pdf)
 
 #### 2016
@@ -463,6 +463,7 @@ MOSEC official website [Chinese](http://www.mosec.org/) [English](http://en.mose
 * [HITB GSEC](http://gsec.hitb.org/) [YouTube](https://www.youtube.com/user/hitbsecconf)
 * [DEF CON](https://www.defcon.org/) [YouTube](https://www.youtube.com/user/DEFCONConference)
 * [DO iOS Conference](http://do-ios.com/) [YouTube](https://www.youtube.com/playlist?list=PLC3RVtNPazW9npPAmF61HyNDCiL3GDmoZ&mc_cid=24fc5b5631)
+* [DevFest Baltics](https:devfest.gdg.lv) [YouTube](https://www.youtube.com/channel/UCNGL7gGX1uIxxdJ3w4CLfaQ)
 
 ## Books
 
